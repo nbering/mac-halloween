@@ -1,0 +1,26 @@
+{
+  "name": "@nbering/mac-halloween",
+  "version": "1.0.0",
+  "description": "Mac dressing up as a windows machine for halloween.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/nbering/mac-halloween/issues"
+  },
+  "author": {
+    "name": "Nicholas Bering",
+    "email": "bering.nicholas@gmail.com",
+    "url": "http://nicholasbering.ca"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nbering/mac-halloween.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^1.3.8"
+  }
+}
